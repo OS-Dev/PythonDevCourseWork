@@ -1,0 +1,4 @@
+This file has duplicates.  For example, several words
+appear more than once.  Something with duplicates, that 
+is, repeated words, should return True when given to 
+the function.
